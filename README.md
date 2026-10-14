@@ -26,7 +26,7 @@
 - **Код:** [Task2_RailwaySystem](./lab2task2OOP.cpp)
 - **UML-диаграмма:** 
   <p align="center">
-    <img src="./UML/uml_diagram.png" width="800" alt="UML Diagram">
+    <img src="./UML/lab2task2UML.drawio.png" width="800" alt="UML Diagram">
   </p>
 - **Ключевые особенности:**
   - **Наследование и интерфейсы:** Класс `Bill` реализует интерфейс `IPrintable` с чистым виртуальным методом `printDocument()`
